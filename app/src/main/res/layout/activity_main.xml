@@ -13,6 +13,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="50dp"
         android:textSize="24sp"
+        android:fontFamily="@font/yeon_sung"
         android:text="Explore Your Favorite Food"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

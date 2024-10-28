@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_height="87dp"
+        app:cardCornerRadius="22dp"
+        app:cardElevation="6dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/priceTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$5"
+                android:textColor="@color/copyrightColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/foodNameTV"
+                app:layout_constraintStart_toStartOf="@+id/foodNameTV"
+                app:layout_constraintTop_toBottomOf="@+id/foodNameTV" />
+
+
+            <TextView
+                android:id="@+id/foodNameTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:fontFamily="@font/yeon_sung"
+                android:text="Food Name"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView"
+                app:layout_constraintStart_toEndOf="@+id/imageView"
+                app:layout_constraintTop_toTopOf="@+id/imageView"
+                app:layout_constraintVertical_bias="0.108" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_marginStart="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/start_food_image"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/addItemButton"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:text="+"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="8dp"
+                android:background="@drawable/addtocartshape"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/quantityTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:gravity="center"
+                android:text="1"
+                app:layout_constraintBottom_toBottomOf="@+id/addItemButton"
+                app:layout_constraintEnd_toStartOf="@+id/addItemButton"
+                app:layout_constraintTop_toTopOf="@+id/addItemButton" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/substractItemButton"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:text="-"
+                android:textColor="@color/white"
+                android:layout_marginRight="8dp"
+                android:textSize="16sp"
+                android:background="@drawable/addtocartshape"
+                app:layout_constraintBottom_toBottomOf="@+id/quantityTV"
+                app:layout_constraintEnd_toStartOf="@+id/quantityTV"
+                app:layout_constraintTop_toTopOf="@+id/quantityTV" />
+
+            <ImageButton
+                android:id="@+id/deleteButton"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/transparent"
+                app:layout_constraintEnd_toEndOf="@+id/addItemButton"
+                app:layout_constraintStart_toStartOf="@+id/substractItemButton"
+                app:layout_constraintTop_toBottomOf="@+id/addItemButton"
+                app:srcCompat="@drawable/bin" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

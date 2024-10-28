@@ -1,14 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".fragments.CartFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Hello Cart Fragment" />
+<!--    <TextView-->
+<!--        android:id="@+id/exploreFoodTV"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="24dp"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:textSize="24sp"-->
+<!--        android:text="Explore Your Favorite Food"-->
+<!--        android:fontFamily="@font/yeon_sung"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
 
-</FrameLayout>
+<!--    <ImageView-->
+<!--        android:id="@+id/bellIcon"-->
+<!--        android:layout_width="32dp"-->
+<!--        android:layout_height="32dp"-->
+<!--        android:layout_marginEnd="24dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/exploreFoodTV"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/exploreFoodTV"-->
+<!--        app:srcCompat="@drawable/bell_icon" />-->
+
+    <TextView
+        android:id="@+id/cartTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Cart"
+        android:fontFamily="@font/yeon_sung"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/addCartRecyclerView"
+        android:layout_width="411dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/proceedButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cartTv" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/proceedButton"
+        android:layout_width="325dp"
+        android:layout_height="57dp"
+        android:background="@drawable/proceedbuttonshape"
+        android:text="Proceed"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textColor="@color/copyrightColor"
+        android:fontFamily="@font/yeon_sung"
+        android:layout_marginVertical="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

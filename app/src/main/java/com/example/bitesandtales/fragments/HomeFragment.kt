@@ -6,10 +6,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.denzcoskun.imageslider.constants.ScaleTypes
 import com.denzcoskun.imageslider.interfaces.ItemClickListener
 import com.denzcoskun.imageslider.models.SlideModel
 import com.example.bitesandtales.R
+import com.example.bitesandtales.adapter.PopularAdapter
 import com.example.bitesandtales.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
@@ -52,5 +54,12 @@ class HomeFragment : Fragment() {
             }
         })
 
+        val foodName = listOf("Herbal Pancake","Fruit Salad", "Green Noddle","Dal Makhani","Pasta")
+        val foodPrice = listOf("$5","$2", "$3","$10", "8$")
+        val popularFoodImages = listOf(R.drawable.menu1,R.drawable.menu2,R.drawable.menu3,R.drawable.menu4, R.drawable.menu5)
+
+        val adapter = PopularAdapter(foodName,foodPrice,popularFoodImages)
+        binding.popularRecyclerView.layoutManager = LinearLayoutManager(requireContext())
+        binding.popularRecyclerView.adapter = adapter
     }
 }
