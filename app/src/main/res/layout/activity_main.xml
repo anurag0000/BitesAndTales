@@ -28,7 +28,7 @@
         app:menu="@menu/menu" />
 
     <ImageView
-        android:id="@+id/bellIcon"
+        android:id="@+id/notificationIcon"
         android:layout_width="32dp"
         android:layout_height="32dp"
         android:layout_marginEnd="24dp"
