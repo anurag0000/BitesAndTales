@@ -1,5 +1,6 @@
 package com.example.bitesandtales.fragments
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -10,6 +11,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.denzcoskun.imageslider.constants.ScaleTypes
 import com.denzcoskun.imageslider.interfaces.ItemClickListener
 import com.denzcoskun.imageslider.models.SlideModel
+import com.example.bitesandtales.CongratsBottomSheet
+import com.example.bitesandtales.PayOutActivity
 import com.example.bitesandtales.R
 import com.example.bitesandtales.adapter.CartAdapter
 import com.example.bitesandtales.adapter.PopularAdapter
@@ -30,6 +33,10 @@ class CartFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         binding = FragmentCartBinding.inflate(layoutInflater)
+        binding.proceedButton.setOnClickListener {
+            val intent = Intent(requireContext(),PayOutActivity::class.java)
+            startActivity(intent)
+        }
         return binding.root
     }
 
