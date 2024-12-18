@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".StartActivity">
+
+
+    <ImageView
+        android:id="@+id/startMainImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/start_food_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/startBodyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/copyrightColor"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:text="Enjoy Restaurant Quality Meals\nat Home"
+        android:fontFamily="@font/yeon_sung"
+        app:layout_constraintEnd_toEndOf="@+id/startMainImage"
+        app:layout_constraintStart_toStartOf="@+id/startMainImage"
+        app:layout_constraintTop_toBottomOf="@+id/startMainImage" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/nextButton"
+        android:layout_width="150dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/green_button"
+        android:text="Next"
+        android:fontFamily="@font/yeon_sung"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/copyrightText"
+        app:layout_constraintEnd_toEndOf="@+id/startBodyText"
+        app:layout_constraintStart_toStartOf="@+id/startBodyText" />
+
+    <TextView
+        android:id="@+id/copyrightText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Design By\nArtemis"
+        android:textColor="@color/copyrightColor"
+        android:layout_marginVertical="20dp"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:fontFamily="@font/yeon_sung"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

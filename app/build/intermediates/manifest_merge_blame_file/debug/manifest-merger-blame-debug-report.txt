@@ -1,0 +1,203 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bitesandtales"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+9        android:targetSdkVersion="33" />
+10
+11    <permission
+11-->[androidx.core:core:1.13.0] /Users/anuraggoswami/.gradle/caches/transforms-3/90e3dd4dc3918fcc901ec4c4b544e3e5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.bitesandtales.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.13.0] /Users/anuraggoswami/.gradle/caches/transforms-3/90e3dd4dc3918fcc901ec4c4b544e3e5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.13.0] /Users/anuraggoswami/.gradle/caches/transforms-3/90e3dd4dc3918fcc901ec4c4b544e3e5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.bitesandtales.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.13.0] /Users/anuraggoswami/.gradle/caches/transforms-3/90e3dd4dc3918fcc901ec4c4b544e3e5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.13.0] /Users/anuraggoswami/.gradle/caches/transforms-3/90e3dd4dc3918fcc901ec4c4b544e3e5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:5:5-50:19
+18        android:allowBackup="true"
+18-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.13.0] /Users/anuraggoswami/.gradle/caches/transforms-3/90e3dd4dc3918fcc901ec4c4b544e3e5/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="true"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:8:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:11:9-54
+27        android:supportsRtl="true"
+27-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.BitesAndTales" >
+29-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:13:9-51
+30        <activity
+30-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:15:9-17:40
+31            android:name="com.example.bitesandtales.FoodDetailsActivity"
+31-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:16:13-48
+32            android:exported="false" />
+32-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:17:13-37
+33        <activity
+33-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.bitesandtales.PayOutActivity"
+34-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:19:13-43
+35            android:exported="false" />
+35-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:20:13-37
+36        <activity
+36-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:21:9-23:40
+37            android:name="com.example.bitesandtales.ChooseLocationActivity"
+37-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:22:13-51
+38            android:exported="false" />
+38-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:23:13-37
+39        <activity
+39-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:24:9-26:40
+40            android:name="com.example.bitesandtales.SignUpActivity"
+40-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:25:13-43
+41            android:exported="false" />
+41-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:26:13-37
+42        <activity
+42-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:27:9-29:40
+43            android:name="com.example.bitesandtales.LoginActivity"
+43-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:28:13-42
+44            android:exported="false" />
+44-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:29:13-37
+45        <activity
+45-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:30:9-32:40
+46            android:name="com.example.bitesandtales.StartActivity"
+46-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:31:13-42
+47            android:exported="false" />
+47-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:32:13-37
+48        <activity
+48-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:33:9-35:40
+49            android:name="com.example.bitesandtales.Splash_Screen"
+49-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:34:13-42
+50            android:exported="false" />
+50-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:35:13-37
+51        <activity
+51-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:36:9-45:20
+52            android:name="com.example.bitesandtales.MainActivity"
+52-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:37:13-41
+53            android:exported="true"
+53-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:38:13-36
+54            android:windowSoftInputMode="adjustPan" >
+54-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:39:13-52
+55            <intent-filter>
+55-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:40:13-44:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:41:17-69
+56-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:41:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:43:17-77
+58-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:43:27-74
+59            </intent-filter>
+60        </activity>
+61
+62        <meta-data
+62-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:47:9-49:57
+63            android:name="preloaded_fonts"
+63-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:48:13-43
+64            android:resource="@array/preloaded_fonts" />
+64-->/Users/anuraggoswami/AndroidStudioProjects/BitesAndTales/app/src/main/AndroidManifest.xml:49:13-54
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+68            android:authorities="com.example.bitesandtales.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.2.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/anuraggoswami/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/anuraggoswami/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/anuraggoswami/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+78                android:value="androidx.startup" />
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+79        </provider>
+80
+81        <uses-library
+81-->[androidx.window:window:1.0.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+82            android:name="androidx.window.extensions"
+82-->[androidx.window:window:1.0.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+83            android:required="false" />
+83-->[androidx.window:window:1.0.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+84        <uses-library
+84-->[androidx.window:window:1.0.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+85            android:name="androidx.window.sidecar"
+85-->[androidx.window:window:1.0.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+86            android:required="false" />
+86-->[androidx.window:window:1.0.0] /Users/anuraggoswami/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+87
+88        <receiver
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+89            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+90            android:directBootAware="false"
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+91            android:enabled="true"
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+92            android:exported="true"
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+93            android:permission="android.permission.DUMP" >
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+95                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+98                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+101                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+104                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/anuraggoswami/.gradle/caches/transforms-3/ce6535b2677b18af98ef4882f34d3242/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+105            </intent-filter>
+106        </receiver>
+107
+108        <provider
+108-->[com.squareup.picasso:picasso:2.71828] /Users/anuraggoswami/.gradle/caches/transforms-3/bf1c022d0fef225bcad2daed7e6e3ae9/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+109            android:name="com.squareup.picasso.PicassoProvider"
+109-->[com.squareup.picasso:picasso:2.71828] /Users/anuraggoswami/.gradle/caches/transforms-3/bf1c022d0fef225bcad2daed7e6e3ae9/transformed/picasso-2.71828/AndroidManifest.xml:9:13-64
+110            android:authorities="com.example.bitesandtales.com.squareup.picasso"
+110-->[com.squareup.picasso:picasso:2.71828] /Users/anuraggoswami/.gradle/caches/transforms-3/bf1c022d0fef225bcad2daed7e6e3ae9/transformed/picasso-2.71828/AndroidManifest.xml:10:13-72
+111            android:exported="false" />
+111-->[com.squareup.picasso:picasso:2.71828] /Users/anuraggoswami/.gradle/caches/transforms-3/bf1c022d0fef225bcad2daed7e6e3ae9/transformed/picasso-2.71828/AndroidManifest.xml:11:13-37
+112    </application>
+113
+114</manifest>

@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_login_page_logo.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/login_page_logo.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_whitebutton.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/whitebutton.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu6.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu6.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/menu_menu.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_profile_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/profile_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xxxhdpi_sademoji.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xxxhdpi/sademoji.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_green_button.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/green_button.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_google_logo.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/google_logo.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_banner2.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/banner2.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/navigation_navigation.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xxhdpi_sademoji.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xxhdpi/sademoji.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-mdpi_sademoji.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-mdpi/sademoji.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_fooddetailsimage.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/fooddetailsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu7.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu7.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_search_shape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/search_shape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_user_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/user_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_profileedittextshape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/profileedittextshape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xhdpi_congratsimage.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xhdpi/congratsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_banner3.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/banner3.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_arrow_down.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/arrow_down.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-ldpi_sademoji.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-ldpi/sademoji.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xxhdpi_right.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xxhdpi/right.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_proceedbuttonshape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/proceedbuttonshape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_bell_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/bell_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-anydpi-v24_sademoji.xml.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-anydpi-v24/sademoji.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_truck.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/truck.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_choose_location.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_choose_location.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-hdpi_right.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-hdpi/right.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xhdpi_right.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xhdpi/right.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_home_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/home_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-ldpi_congratsimage.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-ldpi/congratsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu5.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu5.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-mdpi_right.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-mdpi/right.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-ldpi_right.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-ldpi/right.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu2.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu2.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_banner1.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/banner1.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_home.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_addtocartshape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/addtocartshape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_start_food_image.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/start_food_image.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_password_logo.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/password_logo.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_popular_item.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/popular_item.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_pay_out.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_pay_out.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_history.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-hdpi_sademoji.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-hdpi/sademoji.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_notification__bottom_.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_notification__bottom_.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_food_details.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_food_details.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/font_lato_black.ttf.flat",
+        "source": "com.example.bitesandtales.app-main-50:/font/lato_black.ttf"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_start.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu3.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu3.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xhdpi_sademoji.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xhdpi/sademoji.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_cart.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_login.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_splash_logo.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/splash_logo.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_congrats_bottom_sheet.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_congrats_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_profile.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/font_lato_bold.ttf.flat",
+        "source": "com.example.bitesandtales.app-main-50:/font/lato_bold.ttf"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_edittextshape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/edittextshape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_search_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_cart_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/cart_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xxxhdpi_right.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xxxhdpi/right.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_mail_logo.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/mail_logo.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-mdpi_congratsimage.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-mdpi/congratsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_gohomeshape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/gohomeshape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu4.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu4.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/font_yeon_sung.ttf.flat",
+        "source": "com.example.bitesandtales.app-main-50:/font/yeon_sung.ttf"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_menu_item.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/menu_item.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_buy_again_item.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/buy_again_item.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/font_lato.ttf.flat",
+        "source": "com.example.bitesandtales.app-main-50:/font/lato.ttf"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/font_lato_light.ttf.flat",
+        "source": "com.example.bitesandtales.app-main-50:/font/lato_light.ttf"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xxxhdpi_congratsimage.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xxxhdpi/congratsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_cart_item.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_facebook_logo.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/facebook_logo.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-xxhdpi_congratsimage.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-xxhdpi/congratsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_arrow_left.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-hdpi_congratsimage.png.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-hdpi/congratsimage.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_menu_bottom_sheet.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_menu_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_fragment_search.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_textviewshape.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/textviewshape.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_menu1.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/menu1.png"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_bin.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/bin.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-anydpi-v24_congratsimage.xml.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-anydpi-v24/congratsimage.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_history_icon.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/history_icon.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable-anydpi-v24_right.xml.flat",
+        "source": "com.example.bitesandtales.app-pngs-44:/drawable-anydpi-v24/right.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/layout_notification_item.xml.flat",
+        "source": "com.example.bitesandtales.app-main-50:/layout/notification_item.xml"
+    },
+    {
+        "merged": "com.example.bitesandtales.app-merged_res-48:/drawable_cashondelivery.png.flat",
+        "source": "com.example.bitesandtales.app-main-50:/drawable/cashondelivery.png"
+    }
+]
